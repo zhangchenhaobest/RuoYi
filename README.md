@@ -1,3 +1,29 @@
+# RuoYi
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A SpringBoot-based permission management system built with Spring, MyBatis and Shiro, readable, clean and ready to run.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+基于 SpringBoot 的权限管理系统，采用 Spring、MyBatis、Shiro，易读易懂、界面简洁、开箱即用。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
 	<img alt="logo" src="https://oscimg.oschina.net/oscnet/up-dd77653d7c9f197dd9d93684f3c8dcfbab6.png">
 </p>
